@@ -1,0 +1,11 @@
+@PetStore.PoC.WebApi.Aot_HostAddress = http://localhost:5097
+
+GET {{PetStore.PoC.WebApi.Aot_HostAddress}}/pets/
+Accept: application/json
+
+###
+
+POST {{PetStore.PoC.WebApi.Aot_HostAddress}}/pets
+Accept: application/json
+
+###

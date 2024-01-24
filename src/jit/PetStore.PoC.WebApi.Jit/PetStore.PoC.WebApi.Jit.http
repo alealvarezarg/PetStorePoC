@@ -1,0 +1,6 @@
+@PetStore.PoC.WebApi.Jit_HostAddress = http://localhost:5148
+
+GET {{PetStore.PoC.WebApi.Jit_HostAddress}}/pets/
+Accept: application/json
+
+###
